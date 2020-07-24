@@ -27,7 +27,7 @@ object ShoppingCart {
 
   // SHOPPING CART COMMANDS
 
-  // This is a marker trait for shopping cart commands.
+  // This is a marker trait f or shopping cart commands.
   // We will serialize them using Akka's Jackson support that is able to deal with the replyTo field.
   // (see application.conf).
   // Keep in mind that when configuring it on application.conf you need to use the FQCN which is:
