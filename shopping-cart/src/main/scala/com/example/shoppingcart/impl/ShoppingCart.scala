@@ -24,7 +24,7 @@ import play.api.libs.json._
 import scala.collection.immutable.Seq
 
 object ShoppingCart {
-    //
+
   // SHOPPING CART COMMANDS
 
   // This is a marker trait for shopping cart commands.
